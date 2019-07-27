@@ -1,0 +1,24 @@
+body {
+    background-color: darkred;
+}
+
+.centro {
+    text-align: center;
+}
+
+.button {
+    margin-left: 150px;
+    margin-right: 150px;
+    background-color: white;
+}
+
+.fundo-branco{
+    background-color: white;
+    min-height: 1000px;
+}
+
+.menu {
+    background-color: grey;
+    margin-left: 150px;
+    margin-right: 150px;
+}
